@@ -29,7 +29,6 @@ def diagonalParsing(arr):
         si=0
         ei+=1
 
-
 def main():
     arr = [[3,9,-1,3,2],[0,2,8,-1,5],[0,0,6,6,7],[0,0,0,5,8],[0,0,0,0,3]]
     diagonalParsing(arr)
